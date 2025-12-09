@@ -62,7 +62,7 @@ These controls enable detailed drill‑downs, such as viewing a specific region 
 
 ## Tools and Technologies
 
-- **Data Visualization:** Excel / Power BI (or specify the exact tool you used)
+- **Data Visualization:** Excel 
 - **Data Source:** Sales transaction data with fields for date, category, subcategory, product, region, state, customer, quantity, sales, discount, and profit.
 
 ## Use Cases
