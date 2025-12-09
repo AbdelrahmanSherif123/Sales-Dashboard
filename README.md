@@ -1,8 +1,5 @@
-# Sales-Dashboard
-Sales dashboard using pivot chart &amp; pivot table
-
 # Sales Analysis Dashboard
-
+Sales dashboard using pivot chart &amp; pivot table
 This repository contains an interactive Sales Analysis dashboard designed to explore sales performance across years, product categories, regions, and customer locations.
 
 ## Overview
